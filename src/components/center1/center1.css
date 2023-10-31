@@ -1,0 +1,41 @@
+.center-1{
+    padding-top: 120px;
+    padding-left: 280px;
+    padding-right: 280px;
+    padding-bottom: 160px;
+  }
+  .center-1-pDiv{
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    margin-bottom: 60px;
+  }
+  .center-1-div{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .center-1-div-litl{
+    width: 15%;
+    text-align: center;
+    color: #355362CC;
+    font-size: 16px;
+  }
+  .center-1-num{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15px;
+    font-size: 17px;
+    background-color:#014C48;
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+  }
+  hr{
+    transform: rotate(90deg);
+  }
